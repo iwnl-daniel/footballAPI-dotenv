@@ -1,0 +1,90 @@
+.container-fluid {
+  text-align: center;
+}
+.club {
+  text-align: left;
+}
+.hclub {
+  text-align: right;
+}
+.navbar {
+  background-color: lightgray;
+}
+.leagueInfo {
+  font-family: "Permanent Marker", cursive;
+  color: black;
+}
+.tableDiv {
+  font-family: "Courgette", cursive;
+}
+#lstHead {
+  color: black;
+  background-color: lightgray;
+}
+#lstBody {
+  color: black;
+  background-color: rgba(211, 211, 211, 0.558);
+}
+#nav-left {
+  padding-left: 3%;
+}
+#nav-right {
+  padding-right: 3%;
+}
+.noborder {
+  border: none;
+}
+/* === WORLD CUP PAGE STYLE === */
+@font-face {
+  font-family: world-cup;
+  src: url(fonts/Qatar2022Arabic-Bold.ttf);
+}
+.wcFont {
+  color: #56042c;
+  font-family: world-cup;
+}
+.wctHead {
+  color: white;
+  background-color: #56042c;
+}
+.wctBody {
+  color: #56042c;
+  background-color: rgba(211, 211, 211, 0.558);
+}
+
+/* === CHAMPIONS LEAGUE PAGE STYLE === */
+@font-face {
+  font-family: ucl;
+  src: url(fonts/Champions-Bold.ttf);
+}
+.clFont {
+  color: #0e1e5b;
+  font-family: ucl;
+}
+#clTitle {
+  font-size: 30px;
+}
+.cltHead {
+  color: white;
+  background-color: #0e1e5b;
+}
+.cltBody {
+  color: #0e1e5b;
+  background-color: rgba(211, 211, 211, 0.558);
+}
+/* === COPA LIBERTADORES PAGE STYLE === */
+.lFont {
+  color: #ab915d;
+  font-family: "Signika", sans-serif;
+}
+#lTitle {
+  font-size: 30px;
+}
+.ltHead {
+  color: white;
+  background: #ab915d;
+}
+.ltBody {
+  color: #ab915d;
+  background-color: rgba(211, 211, 211, 0.558);
+}
