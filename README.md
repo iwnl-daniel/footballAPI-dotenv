@@ -69,20 +69,20 @@ pytest
 
 ###### Home Page
 
-![Home Page](https://github.com/iwnl-daniel/footballAPI/blob/main/pagePreviews/index.png?raw=true)
+![Home Page](https://github.com/iwnl-daniel/footballAPI-dotenv/blob/main/pagePreviews/index.png?raw=true)
 
 ###### League Standings
 
-![League Standings](https://github.com/iwnl-daniel/footballAPI/blob/main/pagePreviews/league_standings.png?raw=true)
+![League Standings](https://github.com/iwnl-daniel/footballAPI-dotenv/blob/main/pagePreviews/league_standings.png?raw=true)
 
 ###### World Cup
 
-![World Cup](https://github.com/iwnl-daniel/footballAPI/blob/main/pagePreviews/world_cup.png?raw=true)
+![World Cup](https://github.com/iwnl-daniel/footballAPI-dotenv/blob/main/pagePreviews/world_cup.png?raw=true)
 
 ###### Champions League
 
-![Champions League](https://github.com/iwnl-daniel/footballAPI/blob/main/pagePreviews/champions_league.png?raw=true)
+![Champions League](https://github.com/iwnl-daniel/footballAPI-dotenv/blob/main/pagePreviews/champions_league.png?raw=true)
 
 ###### Copa Libertadores
 
-![Copa Libertadores](https://github.com/iwnl-daniel/footballAPI/blob/main/pagePreviews/copa_libertadores.png?raw=true)
+![Copa Libertadores](https://github.com/iwnl-daniel/footballAPI-dotenv/blob/main/pagePreviews/copa_libertadores.png?raw=true)
